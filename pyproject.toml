@@ -5,3 +5,10 @@ requires = [
     "wheel",
 ]
 build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyspz"
+version = "0.1.0"
+description = "pyspz fork"
+license = { text = "MIT" }
+authors = [{ name = "David Leiva", email = "davidleiva4999@gmail.com" }]
